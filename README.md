@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 💻 I'm interested in **technology, game dev, and coding**
 - 🌱 I'm currently learning **everything 💀**
