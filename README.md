@@ -27,5 +27,5 @@
 
 <p>&nbsp;</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Coshy115&count_private=true&text_color=37eb34&title_color=eb3434&icon_color=d9eb34&border_color=eb3434&border_radius=20&show_icons=true&include_all_commits=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Coshy115&count_private=true&text_color=37eb34&title_color=eb3434&icon_color=d9eb34&border_color=eb3434&border_radius=20&show_icons=true&theme=transparent)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=coshy&label=Profile%20views&color=eb3434&style=flat" alt="coshy" /> </p>
