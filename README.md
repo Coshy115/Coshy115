@@ -20,8 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/coshy115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coshy115" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAs_evX8S-VKCVmRztVc5Wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coshyyy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAs_evX8S-VKCVmRztVc5Wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coshyyy" height="30" width="40" />
+</a>
 </p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
