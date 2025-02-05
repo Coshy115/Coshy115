@@ -1,0 +1,31 @@
+Structural Query Language
+
+General Info:
+Primary use is to communicate with databases
+DBMS (Database Management System) manages database
+Most notable database type is Relational (RDBMS), databases tie into each other
+Schema - How databases are arranged and organized
+
+Linux Installation:
+sudo apt install mysql-server
+# 'sudo mysql' to open
+
+"system clear" - Clears terminal
+"show databases;" - Shows databases
+"create database [db_name];" - Creates database
+"use [db_name];" - Select database
+"create table [table_name] (
+[field_name] [data type],
+[field_name] [data type](255)
+);" - Creates table with two fields, one having a character limit of 255
+"show tables;" - Shows tables in database
+"describe [table_name];" - Gives info on [table_name]
+"insert into [table_name] values ([value], [value]);" - Adds records to [table_name]
+"select * from [table_name] (optional filters);" - Pulls all info from [table_name] with filters
+"where [field_name] = [value];" - Data limited to entries where [value] is in [field_name]
+"or" - Standard logic expression
+"not" - Standard logic expression
+"order by [int_field_name] [asc/desc]" - Sorts [int_field_name] in ascending or descending order
+"delete from [table_name] (optional filters);" - Deletes records from [table_name]
+"update [table_name] set [field_name] = [value] (optional filters);" - Changes specified values
+"alter [table_name] add [field_name] [data type];" - Adds [field_name] to [table_name]
