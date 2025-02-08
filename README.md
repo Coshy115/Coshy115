@@ -8,7 +8,7 @@
 
 - 💻 I'm interested in **technology, game dev, programming**
 - 🌱 I'm currently learning **everything 💀**
-- ⚡ Fun fact: **my other hobbies include playing guitar and skateboarding.**
+- ⚡ Fun fact: **I also like playing guitar and skateboarding.**
 - 🦕 Pets: **several rats and a hedgehog!**
 - 📫 You can reach me through my email at . . . **coshy115@gmail.com**
 
